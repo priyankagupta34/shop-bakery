@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+}
+* {
+  color: #626262;
+}
+
+tr {
+  padding: 5px;
+}
